@@ -9,9 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="100" height="100"/> </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="docker" width="100" height="100"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="100" height="100"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="docker" width="100" height="100"/> </a>
 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100"/> </a>
 
