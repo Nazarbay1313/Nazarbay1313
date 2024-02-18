@@ -15,22 +15,22 @@
 <h4>About me:</h4>
 Our team was based on the development of quite functional and highly loaded applications like
 online stores, social networks, forums and so on.
-80% of the backend in the company was on me.
+80% of the backend in the company was on me.<br>
 
-I personally applied the following features:
+I personally applied the following features:<br>
 
 -user can register and authorize,
 choose a product of interest to him, add it to the cart, adjusting the quantity, then make online
-payment via Stripe/Paypal;
+payment via Stripe/Paypal;<br>
 -Leave a comment under the product, put a like, add to the favorites tab;
--subscribe to the newsletter by email;
--receive API via POSTMAN with certain permissions;
+-subscribe to the newsletter by email;<br>
+-receive API via POSTMAN with certain permissions;<br>
 
-And of course, each project I optimized with:
+And of course, each project I optimized with:<br>
 
--DjangoDebugToolbar;
--Caches;
--Unittests;
--Celery,Celery Beat (namely in spamming newsletters);
--Linters/formaters.
+-DjangoDebugToolbar;<br>
+-Caches;<br>
+-Unittests;<br>
+-Celery,Celery Beat (namely in spamming newsletters);<br>
+-Linters/formaters.<br>
   
