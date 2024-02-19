@@ -19,18 +19,18 @@ online stores, social networks, forums and so on.
 
 I personally applied the following features:<br>
 
--user can register and authorize,
+--User can register and authorize,
 choose a product of interest to him, add it to the cart, adjusting the quantity, then make online
 payment via Stripe/Paypal;<br>
--Leave a comment under the product, put a like, add to the favorites tab;
--subscribe to the newsletter by email;<br>
--receive API via POSTMAN with certain permissions;<br>
+--Leave a comment under the product, put a like, add to the favorites tab;<br>
+--Subscribe to the newsletter by email;<br>
+--Receive API via POSTMAN with certain permissions;<br>
 
 And of course, each project I optimized with:<br>
 
--DjangoDebugToolbar;<br>
--Caches;<br>
--Unittests;<br>
--Celery,Celery Beat (namely in spamming newsletters);<br>
--Linters/formaters.<br>
+--DjangoDebugToolbar;<br>
+--Caches;<br>
+--Unittests;<br>
+--Celery,Celery Beat (namely in spamming newsletters);<br>
+--Linters/formaters.<br>
   
