@@ -14,7 +14,7 @@
 
 <h4>About me:</h4>
 Our team was based on the development of quite functional and highly loaded applications like
-online stores, social networks, forums and so on.
+online stores, social networks, forums and so on.<br>
 80% of the backend in the company was on me.<br>
 
 I personally applied the following features:<br>
