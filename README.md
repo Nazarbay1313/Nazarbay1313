@@ -24,6 +24,7 @@ payment via Stripe/Paypal;<br>
 --Leave a comment under the product, put a like, add to the favorites tab;<br>
 --Subscribe to the newsletter by email;<br>
 --Receive API via POSTMAN with certain permissions;<br>
+--Use the functionality of WebSockets using the example of the dashboard and online chats;<br>
 
 And of course, each project I optimized with:<br>
 
